@@ -2,6 +2,7 @@
 Para hacer diseños 3D se pueden usar diversos programas:
 - https://www.tinkercad.com/
 - https://www.blockscad3d.com/editor/
+
 El diseño se baja en formato .STL
 
 También se pueden descargar diseños hechos por otra gente de repositorios como https://www.thingiverse.com/
